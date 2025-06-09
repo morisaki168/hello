@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class Kazuate {
+public class Main {
     public static void main(String[] args) {
         Random rand = new Random();
         int answer = rand.nextInt(100) + 1;
